@@ -1,0 +1,8 @@
+# epam_10
+
+
+# Define a hierarchy and create multiple colors. Collect a bouquet (you can use accessories) to determine its value.
+# Determine the time of its withering by the average lifetime of all flowers in a bouquet.
+# Allow the sorting of flowers in a bouquet based on various parameters (freshness / color / stem length / cost ...)
+# Implement a search for flowers in the bouquet according to certain parameters.
+# Find out if there is a flower in the bouquet
